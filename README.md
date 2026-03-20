@@ -37,7 +37,6 @@ The dataset is divided into:
 
 A recommended folder structure is as follows:
 
-
 ```text
 VETD220/
 ├── train/
@@ -62,3 +61,7 @@ VETD220/
 │   │   └── label.txt
 │   ├──  ...
 │   └──  list_test.txt
+
+## Release Status
+
+The complete dataset and related resources will be released after publication.
