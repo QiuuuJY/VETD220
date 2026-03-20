@@ -35,7 +35,7 @@ The dataset is divided into:
 
 ## Dataset Structure
 
-A recommended folder structure is as follows:
+The expected folder structure is as follows:
 
 ```text
 VETD220/
@@ -63,6 +63,4 @@ VETD220/
 │   └──  list_test.txt
 ```
 
-## Release Status
-
-The complete dataset and related resources will be released after publication.
+**The complete dataset and related resources will be made publicly
