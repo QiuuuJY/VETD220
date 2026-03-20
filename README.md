@@ -63,4 +63,4 @@ VETD220/
 │   └──  list_test.txt
 ```
 
-**The complete dataset and related resources will be made publicly
+The complete dataset and related resources will be made publicly available soon.
