@@ -61,6 +61,7 @@ VETD220/
 │   │   └── label.txt
 │   ├──  ...
 │   └──  list_test.txt
+```
 
 ## Release Status
 
