@@ -33,31 +33,12 @@ The dataset is divided into:
 - **Validation set:** 20 videos
 - **Test set:** 40 videos
 
-## Scenarios and Attributes
-
-VETD220 covers **6 real-world scenarios** and **15 challenging attributes** for fine-grained analysis.
-
-### Example scenarios
-- Building
-- Square
-- Road
-- Tree
-- Lake
-- Sky
-
-### Example attributes
-- Fast Motion
-- Small Target
-- Scale Variation
-- Background Clutter
-- Low Illumination
-- Total Occlusion
-
-
 ## Dataset Structure
 
 A recommended folder structure is as follows:
 
+
+```text
 VETD220/
 ├── train/
 │   ├── sequence_001/
